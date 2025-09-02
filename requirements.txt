@@ -1,0 +1,13 @@
+functools
+matplotlib
+numpy
+os
+pandas
+plotly
+prophet
+scikit-learn
+seaborn
+statsmodels
+tqdm
+warnings
+xgboost
